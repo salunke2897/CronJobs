@@ -1,0 +1,15 @@
+[
+  {
+    "JobType": "WebApiJob",
+    "JobsWithDetails": [
+      {
+        "Name": "GetCustomer-Every5Sec",
+        "CronSchedule": "0 * * * * ?",
+        "TimeZone": "UTC",
+        "IsEnabled": true,
+        "ApiUrl": "customer/CC4D3710-F621-4CBF-B6A1-5AD2664341BC"
+      }
+
+    ]
+  }
+]
